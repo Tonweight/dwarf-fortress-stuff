@@ -1,2 +1,27 @@
-# DLLs
+# DLLs/EXEs/cruft
 *.dll
+*.exe
+*.bat
+Microsoft*
+
+# dirs and unnecessary
+sdl
+
+raw/graphics
+raw/in*
+
+# unnecessary art stuff
+data/art/*.db
+data/art/mouse.*
+data/art/font*
+
+data/announcement
+data/dipscript
+data/help
+data/initial_movies
+data/movies
+data/save
+data/sound
+data/speech
+data/index
+data/shader.*
